@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(162, 0, 255);
+}
+
+.titulo {
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+}
+
+.subtitulo {
+    font-family: monospace;
+}
+ footer{
+    background-color: aqua;
+ }
